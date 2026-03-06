@@ -4,13 +4,29 @@ This repository contains Python implementations developed for the **Signals and 
 
 ## Projects
 
-### 1. Sinusoidal Signal Sampling
+### 1️⃣ Sinusoidal Signal Sampling
 Generation, sampling, and visualization of sinusoidal signals based on the Nyquist sampling theorem.
 
-### 2. DTMF Signal Generator
-Implementation of Dual-Tone Multi-Frequency (DTMF) signal generation used in telephone keypads.
+**Topics**
+- Signal generation
+- Sampling
+- Nyquist criterion
+- Signal visualization
 
-## Technologies
+---
+
+### 2️⃣ DTMF Signal Generator
+Implementation of Dual-Tone Multi-Frequency (DTMF) signals used in telephone keypads.
+
+**Topics**
+- Frequency synthesis
+- Signal generation
+- Dual-tone signals
+- Time-domain visualization
+
+---
+
+## Technologies Used
 
 - Python
 - NumPy
