@@ -25,6 +25,11 @@ Implementation of Dual-Tone Multi-Frequency (DTMF) signals used in telephone key
 - Time-domain visualization
 
 ---
+### 3️⃣ Signal Encoding and Decoding
+Implementation of encoding and decoding algorithms used for signal representation and recovery.
+
+
+---
 
 ## Technologies Used
 
