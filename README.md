@@ -41,12 +41,4 @@ Performance: Achieved 35.50% Accuracy on a strictly separated test set (200 samp
 
 Tech Stack: Python, Librosa, Scikit-learn, Pandas.[cite: 1, 2]
 
-## Live Demo
 
-The `demo.py` script demonstrates the final Phase 3 model on a selected WAV file.  
-It trains the optimized SVM model using the extracted Phase 3 feature set and predicts the emotional class of a given audio file.
-
-Example:
-
-```bash
-python demo.py
