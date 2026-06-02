@@ -1,0 +1,10 @@
+Model,Accuracy (%)
+SVM GridSearch,86.76
+SelectKBest(60) + SVM,85.29
+SelectKBest(100) + SVM,84.56
+Soft Voting Ensemble,84.56
+SelectKBest(80) + SVM,83.09
+Random Forest,82.35
+MLP GridSearch,81.62
+SelectKBest(40) + SVM,80.88
+Extra Trees,79.41
